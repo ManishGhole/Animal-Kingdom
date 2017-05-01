@@ -1,0 +1,22 @@
+{
+  "intents": [
+    {
+      "intent": "AnimalSoundIntent",
+      "slots": [
+        {
+          "name": "AnimalName",
+          "type": "AnimalNames"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+ }

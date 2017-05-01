@@ -1,0 +1,11 @@
+./ffmpeg -i cat.mp3 -ac 2 -codec:a libmp3lame -b:a 48k -ar 16000 cat_48.mp3
+./ffmpeg -i chicken.mp3 -ac 2 -codec:a libmp3lame -b:a 48k -ar 16000 chicken_48.mp3
+./ffmpeg -i dog.mp3 -ac 2 -codec:a libmp3lame -b:a 48k -ar 16000 dog_48.mp3
+./ffmpeg -i elephant.mp3 -ac 2 -codec:a libmp3lame -b:a 48k -ar 16000 elephant_48.mp3
+./ffmpeg -i frog.mp3 -ac 2 -codec:a libmp3lame -b:a 48k -ar 16000 frog_48.mp3
+./ffmpeg -i horse.mp3 -ac 2 -codec:a libmp3lame -b:a 48k -ar 16000 horse_48.mp3
+./ffmpeg -i lion.mp3 -ac 2 -codec:a libmp3lame -b:a 48k -ar 16000 lion_48.mp3
+./ffmpeg -i pig.mp3 -ac 2 -codec:a libmp3lame -b:a 48k -ar 16000 pig_48.mp3
+./ffmpeg -i rooster.mp3 -ac 2 -codec:a libmp3lame -b:a 48k -ar 16000 rooster_48.mp3
+./ffmpeg -i tiger.mp3 -ac 2 -codec:a libmp3lame -b:a 48k -ar 16000 tiger_48.mp3
+./ffmpeg -i wolf.mp3 -ac 2 -codec:a libmp3lame -b:a 48k -ar 16000 wolf_48.mp3

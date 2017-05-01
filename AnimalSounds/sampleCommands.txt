@@ -1,0 +1,4 @@
+./ffmpeg -i sheep_.mp3 -ac 2 -codec:a libmp3lame -b:a 48k -ar 16000 sheep.mp3
+./ffmpeg -i duck_.mp3 -ac 2 -codec:a libmp3lame -b:a 48k -ar 16000 duck.mp3
+./ffmpeg -i monkey_.mp3 -ac 2 -codec:a libmp3lame -b:a 48k -ar 16000 monkey.mp3
+./ffmpeg -i bear_.mp3 -ac 2 -codec:a libmp3lame -b:a 48k -ar 16000 bear.mp3

@@ -1,0 +1,7 @@
+AnimalSoundIntent {AnimalName}
+AnimalSoundIntent a {AnimalName}
+AnimalSoundIntent {AnimalName} says
+AnimalSoundIntent a {AnimalName} says
+AnimalSoundIntent {AnimalName} sounds like
+AnimalSoundIntent hi {AnimalName}
+AnimalSoundIntent hello {AnimalName}
